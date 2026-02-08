@@ -5,7 +5,6 @@ This package provides utilities for time series forecasting on S&P 500 stock pri
 """
 
 __version__ = '1.0.0'
-__author__ = 'Nathan Wong'
 
 from .data_loader import fetch_sp500_data, load_data, save_data, get_close_prices
 from .preprocessing import (
