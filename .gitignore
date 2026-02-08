@@ -54,3 +54,9 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Generated files
+*.png
+*.jpg
+*.jpeg
+*.pdf
